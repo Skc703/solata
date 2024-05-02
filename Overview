@@ -1,0 +1,5 @@
+solata is a modular data network that aims to provide scalable access to any blockchain, through any API.
+Champions permissionlessly add in-demand APIs and chains to Lava as modules
+Node operator join solata to serve these modules
+The protocol optimizes performance by routing requests to the best available node providers
+Wallet users and app builders plug into solata for fast, multi-chain blockchain connections.
